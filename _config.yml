@@ -1,6 +1,6 @@
-# jekyll-theme-minimal, jekyll-theme-cayman, jekyll-theme-minima
+# jekyll-theme-minimal, jekyll-theme-cayman, minima
 # remote_theme: mmistakes/minimal-mistakes, Beautiful Jekyll
-theme: minima
+theme: jekyll-theme-cayman
 #remote_theme: mmistakes/minimal-mistakes
 title: 내 페이지
 description: 깃허브 페이지 테스트
